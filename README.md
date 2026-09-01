@@ -1,3 +1,5 @@
+
+
 # readhn
 
 <!-- mcp-name: io.github.xodn348/readhn -->
@@ -20,7 +22,7 @@ AI-native HackerNews MCP Server. Find HN content that matters with explainable q
 ## Quick Start
 
 ```bash
-# Install
+# Install (Python 3.9+)
 pip install readhn
 
 # Auto-configure supported AI agents
